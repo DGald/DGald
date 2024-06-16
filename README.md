@@ -1,4 +1,4 @@
-Hi, I’m Danilo Galdámez (DGald)
+Hi, I’m Danilo Galdámez (DGald).
 I’m interested in Automation and Robotics Engineering, and the application of emerging technologies.
 I’m currently learning and taking on new challenges, which has allowed me to adapt to various situations, whether working autonomously or in a team.
 I’m looking to collaborate on robotics projects and the implementation of software and hardware solutions.
