@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danilo
-<h3 align="center">A technology enthusiast
+<h3 align="center">A technology enthusiast :nerd_face: Always learning new things.
 
 - 📚 I'am currently studying to improve my programming skillsd</a>
 - 📽️ I'am currently working as IT at Cinepolis.</a>
