@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Danilo
 <h3 align="center">A technology enthusiast :nerd_face: Always learning new things.
 
+	
+ -----
+
 - 📚 I'am currently studying to improve my programming skills</a>
 - 📽️ I'am currently working as IT at Cinepolis.</a>
 
+-----
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -37,7 +41,7 @@
 -----
 
 <br>
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
