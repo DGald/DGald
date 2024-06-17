@@ -1,7 +1,29 @@
-Hi, I’m Danilo Galdámez (DGald).
-I’m interested in Automation and Robotics Engineering, and the application of emerging technologies.
-I’m currently learning and taking on new challenges, which has allowed me to adapt to various situations, whether working autonomously or in a team.
-I’m looking to collaborate on robotics projects and the implementation of software and hardware solutions.
-You can reach me through my LinkedIn profile or mi Emial Danilogales98@gmail.com
-Despite being a student, I already have practical experience in robotics projects and have participated in several competitions. 
-This has strengthened my ability to work under pressure and in team environments. Also, in my position at Cinépolis, I work in the IT department, where I can apply and expand my technical skills.
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/danilo-alonso-galdamez-briones/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Danilo Galdámez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+
+<li>
+<a href="danilogales98@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  danilogales98@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
