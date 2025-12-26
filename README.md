@@ -7,7 +7,7 @@
 -📚 I'am currently studying to improve my programming skills
 <br>
 <br>
--📽️ I'am currently working as IT at Cinepolis.
+-📽️ I'am currently working as IT at Forus S.A. Chile.
 <br>
 <br>
 -----
