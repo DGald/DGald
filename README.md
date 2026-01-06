@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danilo
-<h3 align="center">A technology enthusiast :nerd_face: Always learning new things.
+<h3 align="center">Automation & Robotics Engineer | Computer Vision & AI Developer.
 
 
  -----
