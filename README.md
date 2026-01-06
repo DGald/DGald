@@ -4,10 +4,10 @@
 
  -----
 
--📚 I'am currently studying to improve my programming skills
+-Developing Computer Vision solutions for accessibility projects.
 <br>
 <br>
--📽️ I'am currently working as IT at Forus S.A. Chile.
+-Working on IT Infrastructure and automation at Forus S.A.
 <br>
 <br>
 -----
@@ -19,7 +19,7 @@
     
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-	![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white).
+	![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 	![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
 
 <br>
